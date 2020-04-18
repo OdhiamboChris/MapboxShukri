@@ -139,7 +139,7 @@ var config = {
             title: 'Mogadishu',
             subtitle: '1980',
             image: '',
-            description: "Her father's work colleagues were an important professional network for him, and an important social network for the family as a whole, helping get access to imported goods. ",
+            description: 'Her father\'s work colleagues were an important professional network for him, and an important social network for the family as a whole, helping get access to imported goods. ',
             location: {
                 center: [45.33583, 2.06584],
                 zoom: 13.73,
