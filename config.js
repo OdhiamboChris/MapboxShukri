@@ -164,7 +164,7 @@ var config = {
             title: 'Hawlwadaag, Mogadishu',
             subtitle: '1991',
             image: '',
-            description: "When war came to Mogadishu, Shukri is 11, attending grade 5. With her family, she flees the city with help from family members living there, as well as financial support from kin in London. They take a very difficult journey to Puntland by road, involving many stops and losing a number of family members along the way. Eventually they reach Galkayo, where they can stay with family members.",
+            description: 'When war came to Mogadishu, Shukri is 11, attending grade 5. With her family, she flees the city with help from family members living there, as well as financial support from kin in London. They take a very difficult journey to Puntland by road, involving many stops and losing a number of family members along the way. Eventually they reach Galkayo, where they can stay with family members.',
             location: {
                 center: [45.33583, 2.06584],
                 zoom: 13.73,
@@ -189,7 +189,7 @@ var config = {
             title: 'Garsoor, Galkayo',
             subtitle: '1991',
             image: '',
-            description: "Shukri is living with her family in Galkayo, away from the fighting further South. Together with her father, mother and siblings they have a relatively good life. The family starts a small business near the family house - a grocery shop. ",
+            description: 'Shukri is living with her family in Galkayo, away from the fighting further South. Together with her father, mother and siblings they have a relatively good life. The family starts a small business near the family house - a grocery shop. ',
             location: {
                 center: [47.423518, 6.767831],
                 zoom: 13.73,
@@ -214,7 +214,7 @@ var config = {
             title: 'Mogadishu',
             subtitle: '1991',
             image: '',
-            description: "Many of Shukri's paternal relatives remain in Mogadishu but continue to have close connections with the family in Galkayo, as well as with other parts of the region. They continue to provide financial and material support.",
+            description: 'Many of Shukri\'s paternal relatives remain in Mogadishu but continue to have close connections with the family in Galkayo, as well as with other parts of the region. They continue to provide financial and material support.',
             location: {
                 center: [45.33583, 2.06584],
                 zoom: 13.73,
@@ -239,7 +239,7 @@ var config = {
             title: 'London, UK',
             subtitle: '1991',
             image: '',
-            description: "Shukri's maternal relatives live abroad and send financial help through remittances. They send 150 Usd every month. ",
+            description: 'Shukri\'s maternal relatives live abroad and send financial help through remittances. They send 150 Usd every month. ',
             location: {
                 center: [-0.11294, 51.52636],
                 zoom: 4.3,
@@ -264,7 +264,7 @@ var config = {
             title: 'London, UK',
             subtitle: '1991',
             image: '',
-            description: "Shukri's paternal kin lives in Italy  and they have been supporting Shukri and her family even before the war and also befor they arrived in Galkayo. Shukri's family lives in Galkayo.",
+            description: 'Shukri\'s paternal kin lives in Italy  and they have been supporting Shukri and her family even before the war and also befor they arrived in Galkayo. Shukri\'s family lives in Galkayo.',
             location: {
                 center: [-0.11294, 51.52636],
                 zoom: 4.3,
@@ -289,7 +289,7 @@ var config = {
             title: 'Galkayo southern border ',
             subtitle: '1991',
             image: '',
-            description: "Shukri's paternal kin lives in Italy  and they have been supporting Shukri and her family even before the war and also befor they arrived in Galkayo. Shukri's family lives in Galkayo.",
+            description: 'Shukri\'s paternal kin lives in Italy  and they have been supporting Shukri and her family even before the war and also befor they arrived in Galkayo. Shukri\'s family lives in Galkayo.',
             location: {
                 center: [47.43074, 6.77016],
                 zoom: 13.73,
@@ -314,7 +314,7 @@ var config = {
             title: 'Galkayo, Masjidu Nasrulaahi ',
             subtitle: '1991',
             image: '',
-            description: "The local community in Galkayo, and especially the imam from the local mosque, welcomed Shukri and her family as well as the many other refugees they journeyed with. They are given home utensils, some small money, furniture, food and medicine.",
+            description: 'The local community in Galkayo, and especially the imam from the local mosque, welcomed Shukri and her family as well as the many other refugees they journeyed with. They are given home utensils, some small money, furniture, food and medicine.',
             location: {
                 center: [47.43074, 6.77016],
                 zoom: 13.73,
@@ -339,7 +339,7 @@ var config = {
             title: 'Alqudus Mosque, Burtinle',
             subtitle: '1997',
             image: '',
-            description: "Shukri, her siblings and mother are now living on their own in Burtinle without father or uncle. Shukri's maternal grandmother passes away, saddening her mother. They become more vulnerable.  Life in the village is very different from they life they had in Galkayo. Shukri's mother continues to run the family business, however.",
+            description: 'Shukri, her siblings and mother are now living on their own in Burtinle without father or uncle. Shukri\'s maternal grandmother passes away, saddening her mother. They become more vulnerable.  Life in the village is very different from they life they had in Galkayo. Shukri\'s mother continues to run the family business, however.',
             location: {
                 center: [47.83098, 7.64224],
                 zoom: 13.73,
